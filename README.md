@@ -8,3 +8,5 @@ A total of 13 kinds of precipitation datasets are involved, including 'GPCC', 'C
 The three-cornered hat (TCH) method is used to derive the relative uncertainty of individual datasets and the inverse of error variance is regarded as weights.
 
 The climatology is unified by a simple average before TCH is applied.
+
+Feel free to email to xulei123@whu.edu.cn if you have any questions.
